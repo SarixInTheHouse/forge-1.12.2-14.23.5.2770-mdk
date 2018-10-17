@@ -13,4 +13,13 @@ public class ModItem {
 	
 	public static final Item CANNABISLEAF = new ItemBase("CannabisLeaf");
 	
+	public static final Item CANNABISBUDS = new ItemBase("CannabisBuds");
+
+	public static final Item CANNABISSEED = new ItemBase("CannabisSeeds");
+	
+	public static final Item COCALEAF = new ItemBase("CocaLeaf");
+	
+	public static final Item COCASEED = new ItemBase("CocaSeeds");
+	
+	public static final Item COCAINE = new ItemBase("Cocaine");
 }
