@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "dm142:items/cocaSeeds"
+        "layer0": "dm142:items/coca_seeds"
      },
      
     "display": {

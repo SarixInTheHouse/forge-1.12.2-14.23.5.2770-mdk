@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "dm142:items/cannabisSeeds"
+        "layer0": "dm142:items/cocaine_powder"
      },
      
     "display": {

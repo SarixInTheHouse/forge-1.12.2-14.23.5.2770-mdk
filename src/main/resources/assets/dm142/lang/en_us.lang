@@ -1,6 +1,6 @@
-item.CannabisLeaf.name=Cannabis Leaf
-item.CannabisBuds.name=Cannabis Buds
-item.CannabisSeeds.name=Cannabis Seeds
-item.CocaLeaf.name=Coca Leaf
-item.CocaSeeds.name=Coca Seeds
-item.Cocaine.name=Cocaine
+item.cannabis_leaf.name=Cannabis Leaf
+item.cannabis_buds.name=Cannabis Buds
+item.cannabis_seeds.name=Cannabis Seeds
+item.coca_leaf.name=Coca Leaf
+item.coca_seeds.name=Coca Seeds
+item.cocaine_powder.name=Cocaine Powder
