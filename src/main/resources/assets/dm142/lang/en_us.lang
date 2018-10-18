@@ -1,7 +1,10 @@
+//Items
 item.cannabis_leaf.name=Cannabis Leaf
 item.cannabis_buds.name=Cannabis Buds
 item.cannabis_seeds.name=Cannabis Seeds
 item.coca_leaf.name=Coca Leaf
 item.coca_seeds.name=Coca Seeds
 item.cocaine_powder.name=Cocaine Powder
-block.juniper_log_block.name=Juniper Log
+
+//Blocks
+tile.juniper_log_block.name=Juniper Log

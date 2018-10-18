@@ -5,10 +5,15 @@ import java.util.List;
 
 import com.SarixInTheHouse.Drugsmod.items.ItemBase;
 
+import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
+import net.minecraft.item.ItemStack;
 
 public class ModItem {
 
+
+	
+	
 	public static final List<Item> ITEMS = new ArrayList<Item>();
 	
 	public static final Item CANNABISLEAF = new ItemBase("cannabis_leaf");
@@ -23,3 +28,4 @@ public class ModItem {
 	
 	public static final Item COCAINE = new ItemBase("cocaine_powder");
 }
+
