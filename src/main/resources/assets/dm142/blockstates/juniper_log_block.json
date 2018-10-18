@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "dm142:juniper_log_block" }
+    }
+}
