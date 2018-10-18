@@ -15,7 +15,7 @@ public class ModItem {
 	
 	public static final Item CANNABISBUDS = new ItemBase("cannabis_buds");
 
-	public static final Item CANNABISSEED = new ItemBase("cannaibs_seeds");
+	public static final Item CANNABISSEED = new ItemBase("cannabis_seeds");
 	
 	public static final Item COCALEAF = new ItemBase("coca_leaf");
 	
